@@ -1,5 +1,4 @@
-"# US-Traffic-Accidents-Trend-Analysis-and-Severity-Classification
-# US Accidents Analysis and Prediction Project
+#  US-Traffic-Accidents-Trend-Analysis-and-Severity-Classification
 
 ## Introduction
 

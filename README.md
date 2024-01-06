@@ -6,7 +6,7 @@ Roads are shared by various means of transportation such as cars, trucks, buses,
 
 ## Dataset Description
 
-In recent decades, accident analysis has been the subject of considerable research due to the prevalence of road accidents. To assist the research community in overcoming limitations in existing datasets, Moosavi et al. (2019) developed a publicly accessible database of accident information called US-Accidents. This large-scale database includes information on 2.8 million traffic accidents that occurred in the contiguous United States between February 2016 and March 2023. The dataset covers various attributes such as location, time, weather, natural language description, points of interest, and more.
+In recent decades, accident analysis has been the subject of considerable research due to the prevalence of road accidents. To assist the research community in overcoming limitations in existing datasets, Moosavi et al. (2019) developed a publicly accessible database of accident information called US-Accidents. This large-scale database includes information on 2.8 million traffic accidents that occurred in the contiguous United States between February 2016 and March 2023. The dataset covers various attributes such as location, time, weather, traffic signs, points of interest, and more.
 
 **Dataset Source**: [US-Accidents Dataset](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 

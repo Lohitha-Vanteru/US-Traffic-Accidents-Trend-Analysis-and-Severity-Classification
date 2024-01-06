@@ -50,7 +50,7 @@ The findings from this study can potentially inform the development of strategie
 ## Insights from Data Analysis
 
 ### Geographical Distribution
-![image](https://github.com/Lohitha-Vanteru/US-Traffic-Accidents-Trend-Analysis-and-Severity-Classification/assets/113141006/10c55cd7-8466-4092-a015-dfe15bcea408)
+![image](https://github.com/Lohitha-Vanteru/US-Traffic-Accidents-Trend-Analysis-and-Severity-Classification/assets/113141006/b940d713-71b3-42ec-909c-4be920764929)
 
 1. **Highest Number of Road Accidents by State:**
    - Prior to standardization, the data reveals that California had the highest number of road accidents, followed by Florida and Texas.
